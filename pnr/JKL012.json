@@ -1,0 +1,18 @@
+{
+  "pnr": "JKL012",
+  "flight_number": "SW234",
+  "policyId": 5,
+  "policyholder": "AaF6SOUTH567890123abcdefghijklmnopqrstuvwxyz45",
+  "wallet": "AaF6SOUTH567890123abcdefghijklmnopqrstuvwxyz45",
+  "passenger": {
+    "fullName": "Eve South",
+    "dateOfBirth": "1987-03-15",
+    "documentId": "P99887766",
+    "seat": "5D",
+    "email": "eve@example.com",
+    "phone": "+1-555-0500"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/AaF6SOUTH567890123abcdefghijklmnopqrstuvwxyz45/5/policy.json",
+  "created_at": 1762277983,
+  "updated_at": 1762277983
+}
