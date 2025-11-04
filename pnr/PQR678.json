@@ -1,0 +1,18 @@
+{
+  "pnr": "PQR678",
+  "flight_number": "AA123",
+  "policyId": 7,
+  "policyholder": "CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67",
+  "wallet": "CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67",
+  "passenger": {
+    "fullName": "Grace American",
+    "dateOfBirth": "1991-12-22",
+    "documentId": "P22113344",
+    "seat": "18C",
+    "email": "grace@example.com",
+    "phone": "+1-555-0700"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67/7/policy.json",
+  "created_at": 1762277987,
+  "updated_at": 1762277987
+}
