@@ -1,15 +1,14 @@
 {
   "flight_number": "AA456",
   "date": "2025-11-05",
-  "scheduled_departure_unix": 1762328400,
+  "scheduled_departure_unix": 1762329600,
   "status": "scheduled",
-  "delay_minutes": 0,
   "pnrs": [
     {
       "pnr": "9IS9IQ",
-      "policyId": "NA",
+      "policyId": 286370,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HYYe11gzynpRh2ZaS8N5f5EZuWp9i32nDzh6BfXjsYPK",
       "passenger": {
         "fullName": "Raghav Rathi",
         "dateOfBirth": "1990-01-15",
@@ -18,11 +17,11 @@
         "email": "raghav.rathi@example.com",
         "phone": "+1-555-0999"
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1762286258,
-      "updated_at": 1762286258
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/HYYe11gzynpRh2ZaS8N5f5EZuWp9i32nDzh6BfXjsYPK/286370/policy.json",
+      "created_at": 1762286415,
+      "updated_at": 1762286415
     }
   ],
   "created_at": 1762286159,
-  "updated_at": 1762286347
+  "updated_at": 1762286415
 }
