@@ -1,0 +1,31 @@
+{
+  "flight_number": "UA123",
+  "date": "2025-11-13",
+  "scheduled_departure_unix": 1763048700,
+  "arrival_unix": 1763060400,
+  "origin": "SFO",
+  "destination": "JFK",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "BCD890",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kate Sky",
+        "dateOfBirth": "1996-06-18",
+        "documentId": "P55667799",
+        "seat": "14A",
+        "email": "kate@example.com",
+        "phone": "+1-555-1100"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1762280198,
+      "updated_at": 1762280198
+    }
+  ],
+  "created_at": 1762280198,
+  "updated_at": 1762280198
+}
