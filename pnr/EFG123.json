@@ -1,0 +1,18 @@
+{
+  "pnr": "EFG123",
+  "flight_number": "DL789",
+  "policyId": 12,
+  "policyholder": "HhM3WING2345678901abcdefghijklmnopqrstuvwxyz12",
+  "wallet": "HhM3WING2345678901abcdefghijklmnopqrstuvwxyz12",
+  "passenger": {
+    "fullName": "Leo Wing",
+    "dateOfBirth": "1994-10-05",
+    "documentId": "P99887711",
+    "seat": "16D",
+    "email": "leo@example.com",
+    "phone": "+1-555-1200"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/HhM3WING2345678901abcdefghijklmnopqrstuvwxyz12/12/policy.json",
+  "created_at": 1762277999,
+  "updated_at": 1762277999
+}
