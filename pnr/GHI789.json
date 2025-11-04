@@ -1,0 +1,18 @@
+{
+  "pnr": "GHI789",
+  "flight_number": "DL789",
+  "policyId": 4,
+  "policyholder": "9zE5FLIGHT456789012abcdefghijklmnopqrstuvwxyz34",
+  "wallet": "9zE5FLIGHT456789012abcdefghijklmnopqrstuvwxyz34",
+  "passenger": {
+    "fullName": "Diana Flight",
+    "dateOfBirth": "1990-07-25",
+    "documentId": "P55667788",
+    "seat": "20A",
+    "email": "diana@example.com",
+    "phone": "+1-555-0400"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/9zE5FLIGHT456789012abcdefghijklmnopqrstuvwxyz34/4/policy.json",
+  "created_at": 1762277981,
+  "updated_at": 1762277981
+}
