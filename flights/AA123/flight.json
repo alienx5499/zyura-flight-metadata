@@ -1,11 +1,8 @@
 {
   "flight_number": "AA123",
   "date": "2025-11-04",
-  "scheduled_departure_unix": 1762281300,
-  "origin": "JFK",
-  "destination": "SFO",
+  "scheduled_departure_unix": 1762282800,
   "status": "scheduled",
-  "delay_minutes": 0,
   "pnrs": [
     {
       "pnr": "ABC123",
@@ -26,9 +23,9 @@
     },
     {
       "pnr": "XYZ789",
-      "policyId": "NA",
+      "policyId": 281097,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
         "fullName": "Bob Sample",
         "dateOfBirth": "1988-05-20",
@@ -37,9 +34,9 @@
         "email": "bob@example.com",
         "phone": "+1-555-0200"
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1762280846,
-      "updated_at": 1762280846
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/281097/policy.json",
+      "created_at": 1762281124,
+      "updated_at": 1762281125
     },
     {
       "pnr": "PQR678",
@@ -60,5 +57,5 @@
     }
   ],
   "created_at": 1762280847,
-  "updated_at": 1762280847
+  "updated_at": 1762281125
 }
