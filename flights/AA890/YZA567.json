@@ -1,0 +1,25 @@
+{
+  "pnr": "YZA567",
+  "flight_number": "AA890",
+  "date": "2025-11-12",
+  "departure_unix": 1762941600,
+  "arrival_unix": 1762953600,
+  "origin": "DFW",
+  "destination": "MIA",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "policyId": 10,
+  "policyholder": "FfK1FLYER012345678abcdefghijklmnopqrstuvwxyz90",
+  "wallet": "FfK1FLYER012345678abcdefghijklmnopqrstuvwxyz90",
+  "passenger": {
+    "fullName": "Jack Flyer",
+    "dateOfBirth": "1986-01-30",
+    "documentId": "P11224488",
+    "seat": "7E",
+    "email": "jack@example.com",
+    "phone": "+1-555-1000"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/FfK1FLYER012345678abcdefghijklmnopqrstuvwxyz90/10/policy.json",
+  "created_at": 1762277576,
+  "updated_at": 1762277576
+}
