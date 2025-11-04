@@ -2,7 +2,7 @@
   "flight_number": "UA123",
   "date": "2025-11-13",
   "scheduled_departure_unix": 1763048700,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "BCD890",
@@ -23,5 +23,7 @@
     }
   ],
   "created_at": 1762280857,
-  "updated_at": 1762290096
+  "updated_at": 1762290130,
+  "actual_departure_unix": 1763048400,
+  "delay_minutes": 0
 }
