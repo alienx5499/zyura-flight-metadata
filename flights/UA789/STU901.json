@@ -1,0 +1,25 @@
+{
+  "pnr": "STU901",
+  "flight_number": "UA789",
+  "date": "2025-11-10",
+  "departure_unix": 1762763400,
+  "arrival_unix": 1762775100,
+  "origin": "LAX",
+  "destination": "ORD",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "policyId": 8,
+  "policyholder": "DdI9UNITED890123456abcdefghijklmnopqrstuvwxyz78",
+  "wallet": "DdI9UNITED890123456abcdefghijklmnopqrstuvwxyz78",
+  "passenger": {
+    "fullName": "Henry United",
+    "dateOfBirth": "1989-04-03",
+    "documentId": "P33445566",
+    "seat": "10A",
+    "email": "henry@example.com",
+    "phone": "+1-555-0800"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/DdI9UNITED890123456abcdefghijklmnopqrstuvwxyz78/8/policy.json",
+  "created_at": 1762277574,
+  "updated_at": 1762277574
+}
