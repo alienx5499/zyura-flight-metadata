@@ -1,0 +1,18 @@
+{
+  "pnr": "ABC123",
+  "flight_number": "AA123",
+  "policyId": 1,
+  "policyholder": "6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz",
+  "wallet": "6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz",
+  "passenger": {
+    "fullName": "Alice Example",
+    "dateOfBirth": "1994-02-17",
+    "documentId": "P12345678",
+    "seat": "12A",
+    "email": "alice@example.com",
+    "phone": "+1-555-0100"
+  },
+  "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz/1/policy.json",
+  "created_at": 1762277974,
+  "updated_at": 1762277974
+}
