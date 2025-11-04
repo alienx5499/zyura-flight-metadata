@@ -2,16 +2,13 @@
   "flight_number": "UA123",
   "date": "2025-11-13",
   "scheduled_departure_unix": 1763048700,
-  "origin": "SFO",
-  "destination": "JFK",
   "status": "scheduled",
-  "delay_minutes": 0,
   "pnrs": [
     {
       "pnr": "BCD890",
-      "policyId": "NA",
+      "policyId": 290072,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
         "fullName": "Kate Sky",
         "dateOfBirth": "1996-06-18",
@@ -20,11 +17,11 @@
         "email": "kate@example.com",
         "phone": "+1-555-1100"
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1762280856,
-      "updated_at": 1762280856
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/290072/policy.json",
+      "created_at": 1762290095,
+      "updated_at": 1762290096
     }
   ],
   "created_at": 1762280857,
-  "updated_at": 1762280857
+  "updated_at": 1762290096
 }
