@@ -2,7 +2,7 @@
   "flight_number": "AA123",
   "date": "2025-11-04",
   "scheduled_departure_unix": 1762282800,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "ABC123",
@@ -57,5 +57,7 @@
     }
   ],
   "created_at": 1762280847,
-  "updated_at": 1762281125
+  "updated_at": 1762281314,
+  "actual_departure_unix": 1762281600,
+  "delay_minutes": 0
 }
