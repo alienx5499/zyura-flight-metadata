@@ -2,7 +2,7 @@
   "flight_number": "AA456",
   "date": "2025-11-05",
   "scheduled_departure_unix": 1762329600,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "9IS9IQ",
@@ -23,5 +23,7 @@
     }
   ],
   "created_at": 1762286159,
-  "updated_at": 1762286415
+  "updated_at": 1762286786,
+  "actual_departure_unix": 1762335600,
+  "delay_minutes": 100
 }
