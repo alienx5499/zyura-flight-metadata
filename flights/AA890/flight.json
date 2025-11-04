@@ -1,0 +1,30 @@
+{
+  "flight_number": "AA890",
+  "date": "2025-11-12",
+  "scheduled_departure_unix": 1762941600,
+  "origin": "DFW",
+  "destination": "MIA",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "YZA567",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jack Flyer",
+        "dateOfBirth": "1986-01-30",
+        "documentId": "P11224488",
+        "seat": "7E",
+        "email": "jack@example.com",
+        "phone": "+1-555-1000"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1762280855,
+      "updated_at": 1762280855
+    }
+  ],
+  "created_at": 1762280856,
+  "updated_at": 1762280856
+}
