@@ -1,0 +1,30 @@
+{
+  "flight_number": "DL456",
+  "date": "2025-11-11",
+  "scheduled_departure_unix": 1762888500,
+  "origin": "ATL",
+  "destination": "SEA",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "VWX234",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Iris Delta",
+        "dateOfBirth": "1993-08-14",
+        "documentId": "P77889900",
+        "seat": "22B",
+        "email": "iris@example.com",
+        "phone": "+1-555-0900"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1762280854,
+      "updated_at": 1762280854
+    }
+  ],
+  "created_at": 1762280854,
+  "updated_at": 1762280854
+}
