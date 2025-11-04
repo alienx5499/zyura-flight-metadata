@@ -4,7 +4,7 @@
   "scheduled_departure_unix": 1762447500,
   "origin": "ATL",
   "destination": "SEA",
-  "status": "scheduled",
+  "status": "departed",
   "delay_minutes": 0,
   "pnrs": [
     {
@@ -43,5 +43,6 @@
     }
   ],
   "created_at": 1762280849,
-  "updated_at": 1762280849
+  "updated_at": 1762290660,
+  "actual_departure_unix": 1762413300
 }
