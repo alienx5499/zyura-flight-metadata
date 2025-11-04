@@ -1,0 +1,65 @@
+{
+  "flight_number": "AA123",
+  "date": "2025-11-04",
+  "scheduled_departure_unix": 1762266600,
+  "arrival_unix": 1762281900,
+  "origin": "JFK",
+  "destination": "SFO",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "ABC123",
+      "policyId": 1,
+      "policyholder": "6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz",
+      "wallet": "6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz",
+      "passenger": {
+        "fullName": "Alice Example",
+        "dateOfBirth": "1994-02-17",
+        "documentId": "P12345678",
+        "seat": "12A",
+        "email": "alice@example.com",
+        "phone": "+1-555-0100"
+      },
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/6vB2EXAMPLE1234567890abcdefghijklmnopqrstuvwxyz/1/policy.json",
+      "created_at": 1762279818,
+      "updated_at": 1762279818
+    },
+    {
+      "pnr": "XYZ789",
+      "policyId": 2,
+      "policyholder": "7xC3TEST234567890abcdefghijklmnopqrstuvwxyz12",
+      "wallet": "7xC3TEST234567890abcdefghijklmnopqrstuvwxyz12",
+      "passenger": {
+        "fullName": "Bob Sample",
+        "dateOfBirth": "1988-05-20",
+        "documentId": "P87654321",
+        "seat": "15B",
+        "email": "bob@example.com",
+        "phone": "+1-555-0200"
+      },
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/7xC3TEST234567890abcdefghijklmnopqrstuvwxyz12/2/policy.json",
+      "created_at": 1762279818,
+      "updated_at": 1762279818
+    },
+    {
+      "pnr": "PQR678",
+      "policyId": 7,
+      "policyholder": "CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67",
+      "wallet": "CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67",
+      "passenger": {
+        "fullName": "Grace American",
+        "dateOfBirth": "1991-12-22",
+        "documentId": "P22113344",
+        "seat": "18C",
+        "email": "grace@example.com",
+        "phone": "+1-555-0700"
+      },
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/CcH8AMERICAN789012345abcdefghijklmnopqrstuvwxyz67/7/policy.json",
+      "created_at": 1762279818,
+      "updated_at": 1762279818
+    }
+  ],
+  "created_at": 1762279818,
+  "updated_at": 1762279818
+}
