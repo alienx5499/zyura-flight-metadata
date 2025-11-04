@@ -5,7 +5,7 @@
   "origin": "ATL",
   "destination": "SEA",
   "status": "departed",
-  "delay_minutes": 0,
+  "delay_minutes": 60,
   "pnrs": [
     {
       "pnr": "GHI789",
@@ -43,6 +43,6 @@
     }
   ],
   "created_at": 1762280849,
-  "updated_at": 1762290660,
-  "actual_departure_unix": 1762413300
+  "updated_at": 1762290695,
+  "actual_departure_unix": 1762451100
 }
