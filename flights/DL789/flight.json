@@ -2,7 +2,7 @@
   "flight_number": "DL789",
   "date": "2025-11-06",
   "scheduled_departure_unix": 1762447500,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "GHI789",
@@ -40,5 +40,7 @@
     }
   ],
   "created_at": 1762280849,
-  "updated_at": 1762290980
+  "updated_at": 1762291088,
+  "actual_departure_unix": 1762453200,
+  "delay_minutes": 95
 }
