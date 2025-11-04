@@ -1,0 +1,12 @@
+{
+  "flight_number": "DL789",
+  "date": "2025-11-06",
+  "departure_unix": 1762447500,
+  "arrival_unix": 1762466400,
+  "origin": "ATL",
+  "destination": "SEA",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "created_at": 1762277979,
+  "updated_at": 1762277979
+}
