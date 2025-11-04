@@ -1,0 +1,12 @@
+{
+  "flight_number": "AA123",
+  "date": "2025-11-04",
+  "departure_unix": 1762266600,
+  "arrival_unix": 1762281900,
+  "origin": "JFK",
+  "destination": "SFO",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "created_at": 1762277972,
+  "updated_at": 1762277972
+}
