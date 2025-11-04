@@ -4,8 +4,8 @@
   "scheduled_departure_unix": 1762334100,
   "origin": "LAX",
   "destination": "ORD",
-  "status": "scheduled",
-  "delay_minutes": 0,
+  "status": "departed",
+  "delay_minutes": 390,
   "pnrs": [
     {
       "pnr": "DEF456",
@@ -26,5 +26,6 @@
     }
   ],
   "created_at": 1762280848,
-  "updated_at": 1762280848
+  "updated_at": 1762288430,
+  "actual_departure_unix": 1762357500
 }
