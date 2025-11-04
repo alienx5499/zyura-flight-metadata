@@ -57,7 +57,7 @@
     }
   ],
   "created_at": 1762280847,
-  "updated_at": 1762283188,
-  "actual_departure_unix": 1762290000,
-  "delay_minutes": 120
+  "updated_at": 1762283389,
+  "actual_departure_unix": 1762291800,
+  "delay_minutes": 150
 }
