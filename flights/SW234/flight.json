@@ -2,29 +2,33 @@
   "flight_number": "SW234",
   "date": "2025-11-07",
   "scheduled_departure_unix": 1762495200,
-  "origin": "BWI",
-  "destination": "MCO",
   "status": "scheduled",
-  "delay_minutes": 0,
   "pnrs": [
     {
       "pnr": "JKL012",
-      "policyId": "NA",
+      "policyId": 325814,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
+        "name": "Eve South",
         "fullName": "Eve South",
-        "dateOfBirth": "1987-03-15",
-        "documentId": "P99887766",
-        "seat": "5D",
         "email": "eve@example.com",
-        "phone": "+1-555-0500"
+        "phone": "+1-555-0500",
+        "phone_number": "+1-555-0500",
+        "date_of_birth": "1987-03-15",
+        "dateOfBirth": "1987-03-15",
+        "passport_number": "P99887766",
+        "documentId": "P99887766",
+        "address": null,
+        "seat": "5D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1762280850,
-      "updated_at": 1762280850
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/325814/policy.json",
+      "created_at": 1762325847,
+      "updated_at": 1762325847
     }
   ],
   "created_at": 1762280850,
-  "updated_at": 1762280850
+  "updated_at": 1762325847
 }
