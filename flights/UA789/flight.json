@@ -2,29 +2,33 @@
   "flight_number": "UA789",
   "date": "2025-11-10",
   "scheduled_departure_unix": 1762763400,
-  "origin": "LAX",
-  "destination": "ORD",
   "status": "scheduled",
-  "delay_minutes": 0,
   "pnrs": [
     {
       "pnr": "STU901",
-      "policyId": "NA",
+      "policyId": 979093,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
+        "name": "Henry United",
         "fullName": "Henry United",
-        "dateOfBirth": "1989-04-03",
-        "documentId": "P33445566",
-        "seat": "10A",
         "email": "henry@example.com",
-        "phone": "+1-555-0800"
+        "phone": "+1-555-0800",
+        "phone_number": "+1-555-0800",
+        "date_of_birth": "1989-04-03",
+        "dateOfBirth": "1989-04-03",
+        "passport_number": "P33445566",
+        "documentId": "P33445566",
+        "address": null,
+        "seat": "10A",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1762280852,
-      "updated_at": 1762280852
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/979093/policy.json",
+      "created_at": 1762979116,
+      "updated_at": 1762979117
     }
   ],
   "created_at": 1762280853,
-  "updated_at": 1762280853
+  "updated_at": 1762979117
 }
