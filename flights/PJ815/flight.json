@@ -1,0 +1,30 @@
+{
+  "flight_number": "PJ815",
+  "date": "2025-11-19",
+  "scheduled_departure_unix": 1763573149,
+  "origin": "ATL",
+  "destination": "LAX",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "JMJRNS",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jude Diaz",
+        "dateOfBirth": "1960-08-03",
+        "documentId": "PJMJRNS410",
+        "seat": "2F",
+        "email": "jude.diaz34@example.com",
+        "phone": "+1-804-326-4318"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027298,
+      "updated_at": 1763027298
+    }
+  ],
+  "created_at": 1763027298,
+  "updated_at": 1763027298,
+  "delay_minutes": 0
+}
