@@ -1,0 +1,47 @@
+{
+  "flight_number": "QL847",
+  "date": "2026-04-01",
+  "scheduled_departure_unix": 1775073201,
+  "origin": "IAD",
+  "destination": "LAS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "H9RMS3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sydney Diaz",
+        "dateOfBirth": "1997-07-01",
+        "documentId": "PH9RMS3612",
+        "seat": "6D",
+        "email": "sydney.diaz60@example.com",
+        "phone": "+1-488-378-9933"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027292,
+      "updated_at": 1763027292
+    },
+    {
+      "pnr": "JLAPTV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Rowan Keller",
+        "dateOfBirth": "1978-06-12",
+        "documentId": "PJLAPTV749",
+        "seat": "10B",
+        "email": "rowan.keller31@yahoo.com",
+        "phone": "+1-655-383-5711"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027292,
+      "updated_at": 1763027292
+    }
+  ],
+  "created_at": 1763027292,
+  "updated_at": 1763027292,
+  "delay_minutes": 0
+}
