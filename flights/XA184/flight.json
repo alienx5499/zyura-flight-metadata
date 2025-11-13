@@ -1,0 +1,47 @@
+{
+  "flight_number": "XA184",
+  "date": "2026-05-09",
+  "scheduled_departure_unix": 1778355109,
+  "origin": "PHX",
+  "destination": "JFK",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "9HDUUF",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Walker",
+        "dateOfBirth": "1992-01-11",
+        "documentId": "P9HDUUF415",
+        "seat": "16A",
+        "email": "ethan.walker42@outlook.com",
+        "phone": "+1-556-475-7407"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027297,
+      "updated_at": 1763027297
+    },
+    {
+      "pnr": "WZJ7GM",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Keller",
+        "dateOfBirth": "1984-01-06",
+        "documentId": "PWZJ7GM224",
+        "seat": "11D",
+        "email": "ethan.keller83@yahoo.com",
+        "phone": "+1-780-242-4357"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027297,
+      "updated_at": 1763027297
+    }
+  ],
+  "created_at": 1763027297,
+  "updated_at": 1763027297,
+  "delay_minutes": 0
+}
