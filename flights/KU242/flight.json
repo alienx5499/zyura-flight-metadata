@@ -1,0 +1,30 @@
+{
+  "flight_number": "KU242",
+  "date": "2026-01-26",
+  "scheduled_departure_unix": 1769418419,
+  "origin": "MSP",
+  "destination": "ORD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "63U6X5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Noah Zimmerman",
+        "dateOfBirth": "1966-12-27",
+        "documentId": "P63U6X5615",
+        "seat": "20D",
+        "email": "noah.zimmerman67@outlook.com",
+        "phone": "+1-489-224-7496"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027293,
+      "updated_at": 1763027293
+    }
+  ],
+  "created_at": 1763027293,
+  "updated_at": 1763027293,
+  "delay_minutes": 0
+}
