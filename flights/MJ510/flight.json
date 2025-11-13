@@ -1,0 +1,47 @@
+{
+  "flight_number": "MJ510",
+  "date": "2026-01-02",
+  "scheduled_departure_unix": 1767382575,
+  "origin": "IAD",
+  "destination": "JFK",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "L7RDWM",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Patel",
+        "dateOfBirth": "1962-03-25",
+        "documentId": "PL7RDWM485",
+        "seat": "9F",
+        "email": "maya.patel33@gmail.com",
+        "phone": "+1-860-807-8463"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027295,
+      "updated_at": 1763027295
+    },
+    {
+      "pnr": "D4JLAF",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Turner",
+        "dateOfBirth": "1958-01-09",
+        "documentId": "PD4JLAF493",
+        "seat": "14F",
+        "email": "caleb.turner37@example.com",
+        "phone": "+1-863-877-9301"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027295,
+      "updated_at": 1763027295
+    }
+  ],
+  "created_at": 1763027295,
+  "updated_at": 1763027295,
+  "delay_minutes": 0
+}
