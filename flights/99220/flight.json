@@ -1,0 +1,47 @@
+{
+  "flight_number": "99220",
+  "date": "2025-12-04",
+  "scheduled_departure_unix": 1764868444,
+  "origin": "ATL",
+  "destination": "LAX",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "WJWDUN",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 1",
+        "dateOfBirth": "1973-12-21",
+        "documentId": "DOCWJWDUN",
+        "seat": "17E",
+        "email": "passenger1@example.com",
+        "phone": "+1-555-1001"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026870,
+      "updated_at": 1763026870
+    },
+    {
+      "pnr": "EXEPAE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 2",
+        "dateOfBirth": "1964-04-18",
+        "documentId": "DOCEXEPAE",
+        "seat": "18B",
+        "email": "passenger2@example.com",
+        "phone": "+1-555-1002"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026870,
+      "updated_at": 1763026870
+    }
+  ],
+  "created_at": 1763026870,
+  "updated_at": 1763026870,
+  "delay_minutes": 0
+}
