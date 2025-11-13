@@ -1,0 +1,64 @@
+{
+  "flight_number": "UN541",
+  "date": "2026-02-01",
+  "scheduled_departure_unix": 1769950739,
+  "origin": "JFK",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "SZHG4M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Coleman",
+        "dateOfBirth": "1982-12-14",
+        "documentId": "PSZHG4M585",
+        "seat": "7B",
+        "email": "maya.coleman44@outlook.com",
+        "phone": "+1-884-214-9498"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027299,
+      "updated_at": 1763027299
+    },
+    {
+      "pnr": "N5KXGA",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jude Jacobs",
+        "dateOfBirth": "2000-07-27",
+        "documentId": "PN5KXGA490",
+        "seat": "15B",
+        "email": "jude.jacobs94@gmail.com",
+        "phone": "+1-550-713-1382"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027299,
+      "updated_at": 1763027299
+    },
+    {
+      "pnr": "36NRUU",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kai Turner",
+        "dateOfBirth": "1993-05-29",
+        "documentId": "P36NRUU747",
+        "seat": "29F",
+        "email": "kai.turner73@icloud.com",
+        "phone": "+1-413-894-7952"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027299,
+      "updated_at": 1763027299
+    }
+  ],
+  "created_at": 1763027299,
+  "updated_at": 1763027299,
+  "delay_minutes": 0
+}
