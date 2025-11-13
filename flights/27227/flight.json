@@ -1,0 +1,64 @@
+{
+  "flight_number": "27227",
+  "date": "2026-01-23",
+  "scheduled_departure_unix": 1769152488,
+  "origin": "SEA",
+  "destination": "SAN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "K24QF8",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 1",
+        "dateOfBirth": "1955-04-08",
+        "documentId": "DOCK24QF8",
+        "seat": "2D",
+        "email": "passenger1@example.com",
+        "phone": "+1-555-1001"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026866,
+      "updated_at": 1763026866
+    },
+    {
+      "pnr": "66XNG7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 2",
+        "dateOfBirth": "1961-02-28",
+        "documentId": "DOC66XNG7",
+        "seat": "3E",
+        "email": "passenger2@example.com",
+        "phone": "+1-555-1002"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026866,
+      "updated_at": 1763026866
+    },
+    {
+      "pnr": "W4RUUQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 3",
+        "dateOfBirth": "1981-10-31",
+        "documentId": "DOCW4RUUQ",
+        "seat": "3B",
+        "email": "passenger3@example.com",
+        "phone": "+1-555-1003"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026866,
+      "updated_at": 1763026866
+    }
+  ],
+  "created_at": 1763026866,
+  "updated_at": 1763026866,
+  "delay_minutes": 0
+}
