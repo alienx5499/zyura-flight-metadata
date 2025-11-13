@@ -1,0 +1,98 @@
+{
+  "flight_number": "UX064",
+  "date": "2026-02-15",
+  "scheduled_departure_unix": 1771148112,
+  "origin": "DFW",
+  "destination": "IAD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "78EYNE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sydney Patel",
+        "dateOfBirth": "1973-06-13",
+        "documentId": "P78EYNE285",
+        "seat": "26D",
+        "email": "sydney.patel30@example.com",
+        "phone": "+1-529-355-3893"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027301,
+      "updated_at": 1763027301
+    },
+    {
+      "pnr": "5837AV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Grayson",
+        "dateOfBirth": "2005-03-23",
+        "documentId": "P5837AV237",
+        "seat": "30B",
+        "email": "ethan.grayson85@example.com",
+        "phone": "+1-832-687-0187"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027301,
+      "updated_at": 1763027301
+    },
+    {
+      "pnr": "9KW9G8",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Harper Coleman",
+        "dateOfBirth": "1959-07-24",
+        "documentId": "P9KW9G8050",
+        "seat": "17A",
+        "email": "harper.coleman43@outlook.com",
+        "phone": "+1-834-458-9369"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027301,
+      "updated_at": 1763027301
+    },
+    {
+      "pnr": "M7MNH4",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Lena Xu",
+        "dateOfBirth": "1964-06-07",
+        "documentId": "PM7MNH4855",
+        "seat": "9F",
+        "email": "lena.xu33@gmail.com",
+        "phone": "+1-549-601-1645"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027301,
+      "updated_at": 1763027301
+    },
+    {
+      "pnr": "F6WBPC",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Harper Zimmerman",
+        "dateOfBirth": "1982-12-08",
+        "documentId": "PF6WBPC389",
+        "seat": "18A",
+        "email": "harper.zimmerman66@icloud.com",
+        "phone": "+1-379-269-5128"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027301,
+      "updated_at": 1763027301
+    }
+  ],
+  "created_at": 1763027301,
+  "updated_at": 1763027301,
+  "delay_minutes": 0
+}
