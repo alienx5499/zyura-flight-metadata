@@ -1,0 +1,81 @@
+{
+  "flight_number": "NB564",
+  "date": "2026-03-23",
+  "scheduled_departure_unix": 1774294471,
+  "origin": "SAN",
+  "destination": "DEN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "AUK2MW",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Iris Porter",
+        "dateOfBirth": "2001-11-02",
+        "documentId": "PAUK2MW744",
+        "seat": "1D",
+        "email": "iris.porter27@icloud.com",
+        "phone": "+1-570-556-1873"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027300,
+      "updated_at": 1763027300
+    },
+    {
+      "pnr": "ZLA8BD",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Owens",
+        "dateOfBirth": "1956-06-06",
+        "documentId": "PZLA8BD353",
+        "seat": "7A",
+        "email": "ethan.owens13@example.com",
+        "phone": "+1-583-730-3054"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027300,
+      "updated_at": 1763027300
+    },
+    {
+      "pnr": "RQCLDV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Mitchell",
+        "dateOfBirth": "1980-06-15",
+        "documentId": "PRQCLDV708",
+        "seat": "24F",
+        "email": "reese.mitchell20@icloud.com",
+        "phone": "+1-661-475-1634"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027300,
+      "updated_at": 1763027300
+    },
+    {
+      "pnr": "BP39TE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Emerson Jordan",
+        "dateOfBirth": "1995-02-06",
+        "documentId": "PBP39TE799",
+        "seat": "20A",
+        "email": "emerson.jordan71@gmail.com",
+        "phone": "+1-751-505-1158"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027300,
+      "updated_at": 1763027300
+    }
+  ],
+  "created_at": 1763027300,
+  "updated_at": 1763027300,
+  "delay_minutes": 0
+}
