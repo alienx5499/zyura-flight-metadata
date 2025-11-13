@@ -1,0 +1,98 @@
+{
+  "flight_number": "94837",
+  "date": "2026-03-07",
+  "scheduled_departure_unix": 1772862134,
+  "origin": "DFW",
+  "destination": "IAD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "A8WE95",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 1",
+        "dateOfBirth": "1999-04-04",
+        "documentId": "DOCA8WE95",
+        "seat": "19A",
+        "email": "passenger1@example.com",
+        "phone": "+1-555-1001"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026867,
+      "updated_at": 1763026867
+    },
+    {
+      "pnr": "T69UD5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 2",
+        "dateOfBirth": "1958-09-26",
+        "documentId": "DOCT69UD5",
+        "seat": "3E",
+        "email": "passenger2@example.com",
+        "phone": "+1-555-1002"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026867,
+      "updated_at": 1763026867
+    },
+    {
+      "pnr": "FJGUUW",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 3",
+        "dateOfBirth": "1969-03-20",
+        "documentId": "DOCFJGUUW",
+        "seat": "26B",
+        "email": "passenger3@example.com",
+        "phone": "+1-555-1003"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026867,
+      "updated_at": 1763026867
+    },
+    {
+      "pnr": "2QZH7L",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 4",
+        "dateOfBirth": "1967-02-27",
+        "documentId": "DOC2QZH7L",
+        "seat": "15D",
+        "email": "passenger4@example.com",
+        "phone": "+1-555-1004"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026867,
+      "updated_at": 1763026867
+    },
+    {
+      "pnr": "RNEF6N",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 5",
+        "dateOfBirth": "2000-12-15",
+        "documentId": "DOCRNEF6N",
+        "seat": "20A",
+        "email": "passenger5@example.com",
+        "phone": "+1-555-1005"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026867,
+      "updated_at": 1763026867
+    }
+  ],
+  "created_at": 1763026867,
+  "updated_at": 1763026867,
+  "delay_minutes": 0
+}
