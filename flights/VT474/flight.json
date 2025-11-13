@@ -1,0 +1,64 @@
+{
+  "flight_number": "VT474",
+  "date": "2026-04-02",
+  "scheduled_departure_unix": 1775154757,
+  "origin": "SAN",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "HDCBLR",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Coleman",
+        "dateOfBirth": "1985-09-04",
+        "documentId": "PHDCBLR119",
+        "seat": "2A",
+        "email": "reese.coleman72@icloud.com",
+        "phone": "+1-708-219-1715"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027294,
+      "updated_at": 1763027294
+    },
+    {
+      "pnr": "KB7CSM",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Lena Campbell",
+        "dateOfBirth": "1971-10-30",
+        "documentId": "PKB7CSM487",
+        "seat": "6C",
+        "email": "lena.campbell14@yahoo.com",
+        "phone": "+1-220-313-9616"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027294,
+      "updated_at": 1763027294
+    },
+    {
+      "pnr": "7RMK2K",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Elena Owens",
+        "dateOfBirth": "1978-11-05",
+        "documentId": "P7RMK2K472",
+        "seat": "25C",
+        "email": "elena.owens22@gmail.com",
+        "phone": "+1-502-621-2815"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027294,
+      "updated_at": 1763027294
+    }
+  ],
+  "created_at": 1763027294,
+  "updated_at": 1763027294,
+  "delay_minutes": 0
+}
