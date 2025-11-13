@@ -1,0 +1,30 @@
+{
+  "flight_number": "GW104",
+  "date": "2025-12-09",
+  "scheduled_departure_unix": 1765261765,
+  "origin": "CLT",
+  "destination": "BOS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "UE2QD2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Iqbal",
+        "dateOfBirth": "1995-03-11",
+        "documentId": "PUE2QD2224",
+        "seat": "25A",
+        "email": "riley.iqbal50@outlook.com",
+        "phone": "+1-824-660-9972"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763027296,
+      "updated_at": 1763027296
+    }
+  ],
+  "created_at": 1763027296,
+  "updated_at": 1763027296,
+  "delay_minutes": 0
+}
