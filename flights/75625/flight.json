@@ -1,0 +1,47 @@
+{
+  "flight_number": "75625",
+  "date": "2026-03-20",
+  "scheduled_departure_unix": 1774002037,
+  "origin": "BWI",
+  "destination": "MSP",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "BTV95M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 1",
+        "dateOfBirth": "1983-01-09",
+        "documentId": "DOCBTV95M",
+        "seat": "1B",
+        "email": "passenger1@example.com",
+        "phone": "+1-555-1001"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026868,
+      "updated_at": 1763026868
+    },
+    {
+      "pnr": "W9TNUS",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Passenger 2",
+        "dateOfBirth": "1973-03-06",
+        "documentId": "DOCW9TNUS",
+        "seat": "27C",
+        "email": "passenger2@example.com",
+        "phone": "+1-555-1002"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1763026868,
+      "updated_at": 1763026868
+    }
+  ],
+  "created_at": 1763026868,
+  "updated_at": 1763026868,
+  "delay_minutes": 0
+}
