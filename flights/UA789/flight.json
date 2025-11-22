@@ -5,30 +5,20 @@
   "status": "scheduled",
   "pnrs": [
     {
-      "pnr": "STU901",
+      "pnr": "SYNC979093",
       "policyId": 979093,
-      "policyholder": "NA",
+      "policyholder": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
-        "name": "Henry United",
-        "fullName": "Henry United",
-        "email": "henry@example.com",
-        "phone": "+1-555-0800",
-        "phone_number": "+1-555-0800",
-        "date_of_birth": "1989-04-03",
-        "dateOfBirth": "1989-04-03",
-        "passport_number": "P33445566",
-        "documentId": "P33445566",
-        "address": null,
-        "seat": "10A",
-        "class": null,
-        "classType": null
+        "name": "Sync User",
+        "email": "sync@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/979093/policy.json",
-      "created_at": 1762979116,
-      "updated_at": 1762979117
+      "notes": "Auto-synced policy 979093 - Status: Active",
+      "created_at": 1763785862,
+      "updated_at": 1763785862
     }
   ],
   "created_at": 1762280853,
-  "updated_at": 1762979117
+  "updated_at": 1763785862
 }
