@@ -25,20 +25,20 @@
       "updated_at": 1762280855
     },
     {
-      "pnr": "SYNC024956",
+      "pnr": "ORXUWT",
       "policyId": 24956,
       "policyholder": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/24956/policy.json",
-      "notes": "Auto-synced policy 24956 - Status: Active",
-      "created_at": 1763785860,
-      "updated_at": 1763785860
+      "notes": "Policy 24956 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     }
   ],
   "created_at": 1762280856,
-  "updated_at": 1763785860
+  "updated_at": 1763786338
 }

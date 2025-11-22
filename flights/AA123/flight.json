@@ -22,193 +22,176 @@
       "updated_at": 1762280846
     },
     {
-      "pnr": "XYZ789",
-      "policyId": 281097,
-      "policyholder": "NA",
-      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
-      "passenger": {
-        "fullName": "Bob Sample",
-        "dateOfBirth": "1988-05-20",
-        "documentId": "P87654321",
-        "seat": "15B",
-        "email": "bob@example.com",
-        "phone": "+1-555-0200"
-      },
-      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/281097/policy.json",
-      "created_at": 1762281124,
-      "updated_at": 1762281125
-    },
-    {
-      "pnr": "SYNC1763049502698",
+      "pnr": "NUUSQV",
       "policyId": 1763049502698,
       "policyholder": "596DYd4dDP1YBvzL7DNRanDqR8UrdewFAZSnCn4jKzLX",
       "wallet": "596DYd4dDP1YBvzL7DNRanDqR8UrdewFAZSnCn4jKzLX",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/596DYd4dDP1YBvzL7DNRanDqR8UrdewFAZSnCn4jKzLX/1763049502698/policy.json",
-      "notes": "Auto-synced policy 1763049502698 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763049502698 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763099657715",
+      "pnr": "NUUSQ0",
       "policyId": 1763099657715,
       "policyholder": "5XSXF4qULAaggq2f2Bu4xB5y96aicpVwS3uXNXFkKQt7",
       "wallet": "5XSXF4qULAaggq2f2Bu4xB5y96aicpVwS3uXNXFkKQt7",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/5XSXF4qULAaggq2f2Bu4xB5y96aicpVwS3uXNXFkKQt7/1763099657715/policy.json",
-      "notes": "Auto-synced policy 1763099657715 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763099657715 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763034902097",
+      "pnr": "NUUSQU",
       "policyId": 1763034902097,
       "policyholder": "5oCZha9TqTzKTQCq1RaZCUYfLf8rsA9JG8YkzZUpUcby",
       "wallet": "5oCZha9TqTzKTQCq1RaZCUYfLf8rsA9JG8YkzZUpUcby",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/5oCZha9TqTzKTQCq1RaZCUYfLf8rsA9JG8YkzZUpUcby/1763034902097/policy.json",
-      "notes": "Auto-synced policy 1763034902097 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763034902097 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763099201401",
+      "pnr": "NUUSQ0",
       "policyId": 1763099201401,
       "policyholder": "CNhgbDLfxvsYhXmaFSHiZr2PokDxGToi9n7vBb5HaxGc",
       "wallet": "CNhgbDLfxvsYhXmaFSHiZr2PokDxGToi9n7vBb5HaxGc",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/CNhgbDLfxvsYhXmaFSHiZr2PokDxGToi9n7vBb5HaxGc/1763099201401/policy.json",
-      "notes": "Auto-synced policy 1763099201401 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763099201401 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763031538882",
+      "pnr": "NUUSQU",
       "policyId": 1763031538882,
       "policyholder": "92RYKmxFLh95NEs8r38aASHrn4aqsXeT5dnK46dfNRve",
       "wallet": "92RYKmxFLh95NEs8r38aASHrn4aqsXeT5dnK46dfNRve",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/92RYKmxFLh95NEs8r38aASHrn4aqsXeT5dnK46dfNRve/1763031538882/policy.json",
-      "notes": "Auto-synced policy 1763031538882 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763031538882 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763035013638",
+      "pnr": "NUUSQU",
       "policyId": 1763035013638,
       "policyholder": "6ueCNdxuYWcNrbtepZQmKbNzHGzB67anjQb5tF5JXCBW",
       "wallet": "6ueCNdxuYWcNrbtepZQmKbNzHGzB67anjQb5tF5JXCBW",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/6ueCNdxuYWcNrbtepZQmKbNzHGzB67anjQb5tF5JXCBW/1763035013638/policy.json",
-      "notes": "Auto-synced policy 1763035013638 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763035013638 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1762977031435",
+      "pnr": "NUURZY",
       "policyId": 1762977031435,
       "policyholder": "77DAKgW3yJu2Trrf4R6zWmUUSWsg4TKxho7sm2p1TGGS",
       "wallet": "77DAKgW3yJu2Trrf4R6zWmUUSWsg4TKxho7sm2p1TGGS",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/77DAKgW3yJu2Trrf4R6zWmUUSWsg4TKxho7sm2p1TGGS/1762977031435/policy.json",
-      "notes": "Auto-synced policy 1762977031435 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1762977031435 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1763030464668",
+      "pnr": "NUUSQU",
       "policyId": 1763030464668,
       "policyholder": "8dEJEjKY8jViN2DVWAhrrkv6aQwKnN9YiXgjFBnbKEfT",
       "wallet": "8dEJEjKY8jViN2DVWAhrrkv6aQwKnN9YiXgjFBnbKEfT",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/8dEJEjKY8jViN2DVWAhrrkv6aQwKnN9YiXgjFBnbKEfT/1763030464668/policy.json",
-      "notes": "Auto-synced policy 1763030464668 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1763030464668 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC000001",
+      "pnr": "NOPQRS",
       "policyId": 1,
       "policyholder": "DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw",
       "wallet": "DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw/1/policy.json",
-      "notes": "Auto-synced policy 1 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1762973857287",
+      "pnr": "NUURZY",
       "policyId": 1762973857287,
       "policyholder": "C4CoQeVBZhrcWBFgQt5nad3XRkMuNXgXVNzxk2MK4Eik",
       "wallet": "C4CoQeVBZhrcWBFgQt5nad3XRkMuNXgXVNzxk2MK4Eik",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/C4CoQeVBZhrcWBFgQt5nad3XRkMuNXgXVNzxk2MK4Eik/1762973857287/policy.json",
-      "notes": "Auto-synced policy 1762973857287 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1762973857287 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1762977600700",
+      "pnr": "NUURZY",
       "policyId": 1762977600700,
       "policyholder": "FBZMzX8GXvAYG3qYPGwCmSJ23yCUqJfTD5ZJP8WQWE3U",
       "wallet": "FBZMzX8GXvAYG3qYPGwCmSJ23yCUqJfTD5ZJP8WQWE3U",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/FBZMzX8GXvAYG3qYPGwCmSJ23yCUqJfTD5ZJP8WQWE3U/1762977600700/policy.json",
-      "notes": "Auto-synced policy 1762977600700 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1762977600700 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     },
     {
-      "pnr": "SYNC1762977427152",
+      "pnr": "NUURZY",
       "policyId": 1762977427152,
       "policyholder": "BbBM8yEXETSHLqLLuwXEq3XfxwyeaMwphM1gjgTAsrE5",
       "wallet": "BbBM8yEXETSHLqLLuwXEq3XfxwyeaMwphM1gjgTAsrE5",
       "passenger": {
-        "name": "Sync User",
-        "email": "sync@zyura.com"
+        "name": "Policy Holder",
+        "email": "policy@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/BbBM8yEXETSHLqLLuwXEq3XfxwyeaMwphM1gjgTAsrE5/1762977427152/policy.json",
-      "notes": "Auto-synced policy 1762977427152 - Status: Active",
-      "created_at": 1763785851,
-      "updated_at": 1763785851
+      "notes": "Policy 1762977427152 - Status: Active",
+      "created_at": 1763786338,
+      "updated_at": 1763786338
     }
   ],
   "created_at": 1762280847,
-  "updated_at": 1763785851,
+  "updated_at": 1763786338,
   "actual_departure_unix": 1762291800,
   "delay_minutes": 150
 }
