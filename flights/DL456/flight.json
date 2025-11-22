@@ -5,30 +5,20 @@
   "status": "scheduled",
   "pnrs": [
     {
-      "pnr": "VWX234",
+      "pnr": "SYNC980223",
       "policyId": 980223,
-      "policyholder": "NA",
+      "policyholder": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
-        "name": "Iris Delta",
-        "fullName": "Iris Delta",
-        "email": "iris@example.com",
-        "phone": "+1-555-0900",
-        "phone_number": "+1-555-0900",
-        "date_of_birth": "1993-08-14",
-        "dateOfBirth": "1993-08-14",
-        "passport_number": "P77889900",
-        "documentId": "P77889900",
-        "address": null,
-        "seat": "22B",
-        "class": null,
-        "classType": null
+        "name": "Sync User",
+        "email": "sync@zyura.com"
       },
       "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/980223/policy.json",
-      "created_at": 1762980238,
-      "updated_at": 1762980238
+      "notes": "Auto-synced policy 980223 - Status: Active",
+      "created_at": 1763785868,
+      "updated_at": 1763785868
     }
   ],
   "created_at": 1762280854,
-  "updated_at": 1762980238
+  "updated_at": 1763785868
 }
