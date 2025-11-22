@@ -1,0 +1,24 @@
+{
+  "flight_number": "BB456",
+  "date": "2025-11-12",
+  "scheduled_departure_unix": 1762970204,
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "SYNC000002",
+      "policyId": 2,
+      "policyholder": "DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw",
+      "wallet": "DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw",
+      "passenger": {
+        "name": "Sync User",
+        "email": "sync@zyura.com"
+      },
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw/2/policy.json",
+      "notes": "Auto-synced policy 2 - Status: Active",
+      "created_at": 1763785864,
+      "updated_at": 1763785864
+    }
+  ],
+  "created_at": 1763785864,
+  "updated_at": 1763785864
+}
