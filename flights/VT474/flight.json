@@ -1,9 +1,7 @@
 {
   "flight_number": "VT474",
   "date": "2026-04-02",
-  "scheduled_departure_unix": 1775154757,
-  "origin": "SAN",
-  "destination": "SFO",
+  "scheduled_departure_unix": 1775154720,
   "status": "scheduled",
   "pnrs": [
     {
@@ -25,20 +23,27 @@
     },
     {
       "pnr": "KB7CSM",
-      "policyId": "NA",
+      "policyId": 786713,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
+        "name": "Lena Campbell",
         "fullName": "Lena Campbell",
-        "dateOfBirth": "1971-10-30",
-        "documentId": "PKB7CSM487",
-        "seat": "6C",
         "email": "lena.campbell14@yahoo.com",
-        "phone": "+1-220-313-9616"
+        "phone": "+1-220-313-9616",
+        "phone_number": "+1-220-313-9616",
+        "date_of_birth": "1971-10-30",
+        "dateOfBirth": "1971-10-30",
+        "passport_number": "PKB7CSM487",
+        "documentId": "PKB7CSM487",
+        "address": null,
+        "seat": "6C",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1763027294,
-      "updated_at": 1763027294
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/786713/policy.json",
+      "created_at": 1763786727,
+      "updated_at": 1763786727
     },
     {
       "pnr": "7RMK2K",
@@ -59,6 +64,5 @@
     }
   ],
   "created_at": 1763027294,
-  "updated_at": 1763027294,
-  "delay_minutes": 0
+  "updated_at": 1763786727
 }
