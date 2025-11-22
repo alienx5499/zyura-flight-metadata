@@ -7,23 +7,6 @@
   "status": "scheduled",
   "pnrs": [
     {
-      "pnr": "9HDUUF",
-      "policyId": "NA",
-      "policyholder": "NA",
-      "wallet": "NA",
-      "passenger": {
-        "fullName": "Ethan Walker",
-        "dateOfBirth": "1992-01-11",
-        "documentId": "P9HDUUF415",
-        "seat": "16A",
-        "email": "ethan.walker42@outlook.com",
-        "phone": "+1-556-475-7407"
-      },
-      "nft_metadata_url": "NA",
-      "created_at": 1763027297,
-      "updated_at": 1763027297
-    },
-    {
       "pnr": "WZJ7GM",
       "policyId": "NA",
       "policyholder": "NA",
@@ -39,9 +22,23 @@
       "nft_metadata_url": "NA",
       "created_at": 1763027297,
       "updated_at": 1763027297
+    },
+    {
+      "pnr": "SYNC782446",
+      "policyId": 782446,
+      "policyholder": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
+      "passenger": {
+        "name": "Sync User",
+        "email": "sync@zyura.com"
+      },
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/782446/policy.json",
+      "notes": "Auto-synced policy 782446 - Status: Active",
+      "created_at": 1763785870,
+      "updated_at": 1763785870
     }
   ],
   "created_at": 1763027297,
-  "updated_at": 1763027297,
+  "updated_at": 1763785870,
   "delay_minutes": 0
 }
