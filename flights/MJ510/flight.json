@@ -1,27 +1,32 @@
 {
   "flight_number": "MJ510",
   "date": "2026-01-02",
-  "scheduled_departure_unix": 1767382575,
-  "origin": "IAD",
-  "destination": "JFK",
+  "scheduled_departure_unix": 1767382560,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "L7RDWM",
-      "policyId": "NA",
+      "policyId": 472278,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy",
       "passenger": {
+        "name": "Maya Patel",
         "fullName": "Maya Patel",
-        "dateOfBirth": "1962-03-25",
-        "documentId": "PL7RDWM485",
-        "seat": "9F",
         "email": "maya.patel33@gmail.com",
-        "phone": "+1-860-807-8463"
+        "phone": "+1-860-807-8463",
+        "phone_number": "+1-860-807-8463",
+        "date_of_birth": "1962-03-25",
+        "dateOfBirth": "1962-03-25",
+        "passport_number": "PL7RDWM485",
+        "documentId": "PL7RDWM485",
+        "address": null,
+        "seat": "9F",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1763027295,
-      "updated_at": 1763027295
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/472278/policy.json",
+      "created_at": 1764472294,
+      "updated_at": 1764472294
     },
     {
       "pnr": "D4JLAF",
@@ -42,6 +47,5 @@
     }
   ],
   "created_at": 1763027295,
-  "updated_at": 1763027295,
-  "delay_minutes": 0
+  "updated_at": 1764472294
 }
